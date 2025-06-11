@@ -1,16 +1,28 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**772005himanshu/772005himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! Himanshu here!
 
-Here are some ideas to get you started:
+I'm a Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rust, Move, Solidity, Cairo, Ton: I find bugs in any language!
+
+Ethereum, Solana, NEAR, Substrate, Aptos: I find bugs in any stack!
+
+More of my work can be found at [772005himanshu/Audits](https://github.com/772005himanshu/Audits).
+
+- Twitter: [@Himansh71624010](https://x.com/Himansh71624010)
+- Discord: [@Himanshu772005]
+- Telegram : [Himanshu772005](https://t.me/Himanshu772005)
+
+## My 10 best competitions
+
+| Project              | Project review type           | Date              | Review type         | Result          |
+|----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Primev / primev-validator-registry    | Decentralization Mev pipeline | 29 May  | Cantina Competition | [Rank: 6th ](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d/leaderboard)        |
+   
+
+## Learnings & Side-projects
+
+| Project                             | Type         | Date                        | Link                                    |
+|-------------------------------------|--------------|-----------------------------|-----------------------------------------|
+|  |        |       |  |
