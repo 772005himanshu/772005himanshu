@@ -14,7 +14,7 @@ More of my work can be found at [772005himanshu/Audits](https://github.com/77200
 - Discord: [@Himanshu772005]
 - Telegram : [Himanshu772005](https://t.me/Himanshu772005)
 
-## My 10 best competitions
+## My competitions
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
