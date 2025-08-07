@@ -1,10 +1,50 @@
 # Portfolio
 
-Hey! Himanshu here!
+# 👋 Hi, I'm Himanshu!
 
-I'm a Security Researcher
+**Blockchain Engineer & Smart Contract Researcher**  
+_Where Logic Meets Security._
 
-Rust, Move, Solidity, Cairo, Ton: I find bugs in any language!
+---
+
+## 🛠️ Top Skills & Technologies
+
+- **Smart Contracts:** Solidity, Rust, Go, Cairo, Cosmwasm, Noir, Huff, Yul
+- **Security:** Audit, Formal Verification, Protocol Design
+
+---
+
+## 🚀 Featured Project
+
+### [Mingo Blockchain](https://github.com/772005himanshu/Mingo-Blockchain)
+A novel blockchain initiative focused on scalability, security, and developer experience.
+
+---
+
+## 📂 Audits & Research
+
+Explore more of my work, research, and audit reports in  
+[**772005himanshu/Audits**](https://github.com/772005himanshu/Audits)
+
+---
+
+## 🌐 Connect With Me
+
+- **Twitter:** [@Himansh71624010](https://twitter.com/Himansh71624010)
+- **Discord:** [@Himanshu772005](https://discord.com/users/Himanshu772005)
+- **Telegram:** [Himanshu772005](https://t.me/Himanshu772005)
+
+---
+
+## 🎯 Fun Facts
+
+- I love breaking code, sometimes for fun, sometimes for security!
+- Occasionally, I enjoy watching anime.
+
+---
+
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=772005himanshu&show_icons=true&theme=radical)
+
 
 
 # 💻 Tech Stack:
@@ -23,12 +63,6 @@ Rust, Move, Solidity, Cairo, Ton: I find bugs in any language!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Ethereum, Solana, NEAR, Substrate, Aptos: I find bugs in any stack!
-
-More of my work can be found at [772005himanshu/Audits](https://github.com/772005himanshu/Audits).
-
-- Twitter: [@Himansh71624010](https://x.com/Himansh71624010)
-- Discord: [@Himanshu772005]
-- Telegram : [Himanshu772005](https://t.me/Himanshu772005)
 
 ## My 10 best competitions
 
