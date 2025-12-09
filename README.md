@@ -62,10 +62,13 @@ Ethereum, Solana, NEAR, Substrate, Aptos: I find bugs in any stack!
 
 ## My 10 best competitions
 
-| Project              | Project review type           | Date              | Review type         | Result          |
-|----------------------|-------------------------------|-------------------|---------------------|-----------------|
-| Primev / primev-validator-registry    | Decentralization Mev pipeline | 29 May  | Cantina Competition | [Rank: 6th ]()        |
-   
+|ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
+|:--|:--------|:------|:----------|:-------|:----:|:----:| 
+|5|[Garden Finance](https://garden.finance/)|Solidity, Rust🦀, Cairo, Move - EVM, Solana,  Starknet,Sui |Trustless peer-to-peer bitcoin bridge|Solo|4 Medium|[📄]()|  
+|4|[Alignerz](https://alignerz-labs.com/) |Solidity- EVM| Token-vesting launchpad|Solo| 2 High, 1 Medium, 1 Low |[📄]()|  
+|3|[Reflector Audit](https://reflector.network/)|Rust🦀 - Soroban Stellar|Decentralized Price Oracle Defi|Solo|1 Medium|[📄]()|  
+|2|[primev-validator-registry](https://www.primev.xyz/)|Solidity - EVM|Coordination-layer|Solo|1 High |[📄]()|  
+|1|[telcoin-network](https://www.telcoin.network/)|Solidity, Rust 🦀|mobile-network-powered Layer-1 blockchain ecosystem|Solo |1 High|[📄]()|
 
 ## Learnings & Side-projects
 
