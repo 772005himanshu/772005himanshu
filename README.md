@@ -1,25 +1,22 @@
-# Portfolio
+## Biography
+Hey,
+I'm an expert Solidity, Rust smart contracts & ZK Security Researcher
 
-# 👋 Hi, I'm Himanshu!
+For audit and contract work, please reach out on [X](https://twitter.com/Himansh71624010) ,[telegram](https://t.me/Himanshu772005) or [Discord](https://discord.com/users/Himanshu772005).
 
-**Blockchain Engineer & Smart Contract Researcher**  
-_Where Logic Meets Security._
+Below I have detailed my audit experience, education, articles and reports.
 
----
+I'm particularly expert in auditing Solidity and Rust: 
+- ZKPs ( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure),
 
-## 🛠️ Top Skills & Technologies
+- Privacy  (TEEs, MPC, FHE).
 
-- **Smart Contracts:** Solidity, Rust, Go, Cairo, Cosmwasm, Noir, Huff, Yul
-- **Security:** Audit, Formal Verification, Protocol Design
+Solidity, Rust, Go, Move, Circom even Cairo: I find bugs in any language with above given intrestrd projects types (Defi-privacy & ZKPs)! 
 
----
+Ethereum, Solana, Sui, Aptos : I find bugs in any stack!
 
-## 🚀 Featured Project
-
-### [Mingo Blockchain](https://github.com/772005himanshu/Mingo-Blockchain)
-A novel blockchain initiative focused on scalability, security, and developer experience.
-
----
+##### Skillset:
+Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 ## 📂 Audits & Research
 
@@ -28,33 +25,13 @@ Explore more of my work, research, and audit reports in
 
 ---
 
-## 🌐 Connect With Me
-
-- **Twitter:** [@Himansh71624010](https://twitter.com/Himansh71624010)
-- **Discord:** [@Himanshu772005](https://discord.com/users/Himanshu772005)
-- **Telegram:** [Himanshu772005](https://t.me/Himanshu772005)
-
----
-
 ## 🎯 Fun Facts
 
 - I love breaking code, sometimes for fun, sometimes for security!
 - Occasionally, I enjoy watching anime.
 
----
-
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=772005himanshu&show_icons=true&theme=radical)
-
-
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=772005himanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=772005himanshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -74,7 +51,12 @@ Ethereum, Solana, NEAR, Substrate, Aptos: I find bugs in any stack!
 
 ## Learnings & Side-projects
 
-| Project                             | Type         | Date                        | Link                                    |
-|-------------------------------------|--------------|-----------------------------|-----------------------------------------|
-|  |        |       |  |
+| Project                             | Type         | Date                    | Link                                    |
+|-------------------------------------|--------------|-------------------------|-----------------------------------------|
+| ZK Whiteboard Session                           | Cryptography And Zk | February- S1 2026  | [Zk Whiteboard](https://zkhack.dev/whiteboard/)  |
+| ZK Book                             | Cryptography | January-M1 & February-M2, M3 2026  | [Rareskills-ZK-book](https://www.rareskills.io/zk-book)  |
+| Smart Contract Security             | Solidity     | February 2025   | [Smart-Contract-Security-&-Auditing-Course](https://github.com/Cyfrin/security-and-auditing-full-course-s23) |
+| Smart Contract Development          | Solidity     | January 2025   | [Smart-Contract-Development-Course](https://github.com/Cyfrin/foundry-full-course-cu) |
+| DeFi & Solidity                     | Solidity     | December 2024   | [Solidity](https://cryptozombies.io/) |
+| Ethereum                            | Ethereum     | 2024   | [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) |
 
