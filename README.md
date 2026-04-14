@@ -21,7 +21,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 ## 📂 Audits & Research
 
 Explore more of my work, research, and audit reports in  
-[**772005himanshu/Audits**](https://github.com/772005himanshu/Audits)
+[**772005himanshu/Audits**](https://github.com/772005himanshu/public_audits)
 
 ---
 
