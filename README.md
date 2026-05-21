@@ -41,9 +41,11 @@ Ethereum, Solana, NEAR, Substrate, Aptos: I find bugs in any stack!
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|10|[FrankSol - Solana Audit Arena(Frankcastle)]()|Rust🦀 - Solana(Anchor)|Anchor staking protocol with liquid receipts, yield strategies, and fee routing|Solo|1 High , 3 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/Metalend_RektOff_Solana.md)|
+|9|[Metalend - RektOff Rust]()|(Rust🦀 - Solana(Anchor))|Lending , Borrowing and Flash Loan Contract|Solo|12 High , 3 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/Frank_Sol_Audit_Report.md)|
 |10|[Move Audit - Kann Audits(Private)]()|Move - Aptos |Briding and Locking Contract|Solo|1 Critical , 3 High , 4 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/JupiterLend_Audit.md)|
 |9|[Looping Contract - Kann audit(Private)]()|(Solidity - EVM)|Lending , Borrowing and Flash Loan Contract|Solo|3 High , 2 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/FinalAudit.md)|
-|8|[Jupiter Lend](https://jup.ag/lend/earn)|Rust - Solana(Anchor)|Earn yield and borrow assets efficiently, maximizing returns for both lenders and borrowers.|Solo|2 High|[📄](https://github.com/772005himanshu/public_audits/blob/main/JupiterLend_Audit.md)|
+|8|[Jupiter Lend](https://jup.ag/lend/earn)|Rust🦀- Solana(Anchor)|Earn yield and borrow assets efficiently, maximizing returns for both lenders and borrowers.|Solo|2 High|[📄](https://github.com/772005himanshu/public_audits/blob/main/JupiterLend_Audit.md)|
 |7|[OpenCover Insured Vaults](https://opencover.com/)|Solidity - EVM|Provides insured yield for DeFi vaults with streamed premiums and flexible policy coverag|Solo|2 High|[📄](https://github.com/772005himanshu/public_audits/blob/main/OpenCover_Insured_Vaults_Audit.md)| 
 |6|[Monolith Stablecoin Factory](https://www.monolith.market/)|Solidity - EVM|Vault-Backed Stablecoin Factory|Solo|2 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/Monolith_Stablecoin_Factory.md)| 
 |5|[Garden Finance](https://garden.finance/)|Solidity, Rust🦀, Cairo, Move - EVM, Solana,  Starknet,Sui |Trustless peer-to-peer bitcoin bridge|Solo|4 Medium|[📄](https://github.com/772005himanshu/public_audits/blob/main/Garden_finance_Audit.md)|  
